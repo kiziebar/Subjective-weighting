@@ -4,7 +4,7 @@ All rights to the bibliographic data contained in this repository belong to Else
 
 ## Copyright Information
 
-© [Year] Elsevier B.V. All rights reserved.
+© [2024] Elsevier B.V. All rights reserved.
 
 ## Terms of Use
 
